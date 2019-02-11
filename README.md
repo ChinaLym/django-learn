@@ -1,4 +1,4 @@
-免费、中文、零基础，完整的项目，基于最新版 Django 1.10 和 Python 3.5。带你从零开始一步步开发属于自己的博客网站，帮助你以最快的速度掌握 Django 开发的技巧。
+基于最新版 Django 2.15 和 Python 3.7。
 
 ## 资源列表
 
@@ -22,10 +22,10 @@ demo 分支是演示项目的分支代码。
    打开命令行，进入到保存项目的文件夹，输入如下命令：
 
    ```
-   git clone https://github.com/zmrenwu/django-blog-tutorial.git
+   git clone git@github.com:ChinaLym/django-learn.git
    ```
 
-2. 创建并激活虚拟环境
+2. 创建并激活虚拟环境(可跳过)
 
    在命令行进入到保存虚拟环境的文件夹，输入如下命令创建并激活虚拟环境：
 
